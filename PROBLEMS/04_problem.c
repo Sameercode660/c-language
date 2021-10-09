@@ -1,3 +1,4 @@
+//this program tells us that how many notes you want to complete to a given amount
 #include<stdio.h>
 
 int main(){

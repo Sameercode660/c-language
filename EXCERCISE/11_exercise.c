@@ -1,3 +1,11 @@
+/*Explanation--> Here we are replacing many if by else-if ladder !
+if(x==0)
+    y++;
+if(x>0)
+    y--;
+if(x<0)
+    y+=2;
+all the upper statements are replaced by else-if ladder! */
 #include <stdio.h>
 
 int main()

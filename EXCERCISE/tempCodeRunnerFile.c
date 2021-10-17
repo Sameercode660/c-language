@@ -1,4 +1,3 @@
-/* In this program there is some confusion at this time and at the future we will resolve this problem!*/
 #include<stdio.h>
 
 int main(){

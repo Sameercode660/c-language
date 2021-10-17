@@ -19,8 +19,9 @@ int main()
     // }
     int a=1, b=1;
     switch(a){
-        case b :
+        case b  :
          printf("%i\n", a);
     }
+
     return 0;
 }
